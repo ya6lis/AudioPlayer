@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/add.png</file>
+        <file>icons/cancel.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/play.png</file>
+        <file>icons/repeat.png</file>
+        <file>icons/volume.png</file>
+        <file>icons/folder.png</file>
+        <file>icons/back.png</file>
+        <file>icons/forward.png</file>
+        <file>icons/volume_off.png</file>
+        <file>icons/pause_white.png</file>
+        <file>icons/play_white.png</file>
+        <file>icons/renove_white.png</file>
+        <file>icons/repeat_white.png</file>
+        <file>icons/volume_white.png</file>
+        <file>icons/volume_off_white.png</file>
+        <file>icons/gordon.png</file>
+        <file>icons/remove_red.png</file>
+    </qresource>
+</RCC>
